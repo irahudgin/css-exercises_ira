@@ -1,0 +1,12 @@
+/* avatar and proportioned 300px wide, height auto? has to be square */
+/* avartar and distorted 200 px wide, height twice as big as its width (hardcoded) */
+
+.avatar.proportioned {
+  width: 300px;
+  height: auto;
+}
+
+.avatar.distorted {
+  width: 200px;
+  height: 400px;
+}
